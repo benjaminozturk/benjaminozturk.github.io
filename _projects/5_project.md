@@ -5,7 +5,7 @@ description: "Numerical simulation of the Bénard-von Kármán vortex street and
 img: assets/img/vit_re60.jpg
 importance: 1
 category: fun
-redirect: /assets/pdf/tp_mf_sillage_anglais.pdf
+redirect: /assets/pdf/tp_mf_sillage_anglais (1).pdf
 ---
 
 This project redirects directly to the full PDF report.
