@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Bénard–von Kármán Instability, Determination of the Critical Reynolds Number using the Finite Element Method
+#description: a project with a background image
+img: assets/img/vit_re60.jpg
 importance: 3
 category: fun
+redirect: /assets/pdf/tp_mf_sillage_anglais.pdf
 ---
 
 Every project has a beautiful feature showcase page.

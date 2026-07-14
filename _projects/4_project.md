@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Vanadium Pentoxide V2O5 Gel : Sol-Gel Synthesis, Cationic Intercalation and Electrochemical Properties for Battery Applications 
+
+#description: another without an image
+img: assets/pdf/rapport-projet1.pdf
 importance: 3
-category: fun
+category: work
+redirect: /assets/pdf/tp_cmi_anglais.pdf
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Surface Waves: Dispersion Relation and Wave Regimes
+#description: a project with no image
+img: assets/img/DSC_0193.JPG
 importance: 4
 category: fun
+redirect: /assets/pdf/tp_mf_vagues_anglais.pdf
 ---
 
 Every project has a beautiful feature showcase page.
