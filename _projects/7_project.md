@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Empirical Analysis of Logistic Regression: Optimization, Convergence, and Linear Limitations
+#description: with background image
+img: assets/img/descente de gradient.png
 importance: 1
 category: work
-related_publications: true
+#related_publications: true
+redirect: /assets/pdf/tp_regression_logistique.pdf
 ---
 
 Every project has a beautiful feature showcase page.
