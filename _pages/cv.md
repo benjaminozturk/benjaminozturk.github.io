@@ -1,11 +1,11 @@
 ---
+---
 layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_tier: 1
-description: >
-  Vous pouvez également <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">télécharger mon CV au format PDF ici</a>.
+nav_order: 4
+description: You can also <a href="/assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer">download my full CV as a PDF here</a>.
 ---
 
 <!-- Ce bloc de code affiche le PDF directement sur la page -->
