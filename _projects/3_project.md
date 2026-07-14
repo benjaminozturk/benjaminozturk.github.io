@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
+title: Spectroscopy and Magnetometryof the Nitrogen-Vacancy Center in Diamond
+#description: a project that redirects to another website
+img: assets/img/vue de face.JPG
 importance: 3
 category: work
+redirect: /assets/pdf/tp_pq_option_anglais.pdf
 ---
 
 Every project has a beautiful feature showcase page.
