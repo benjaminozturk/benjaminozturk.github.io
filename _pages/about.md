@@ -14,9 +14,10 @@ subtitle:
 #   more_info: >
 #     <p>Your address or extra info</p>
 
-news: true 
-selected_papers: true 
+news: false
+selected_papers: false 
 social: true 
 ---
 
-[Your short bio goes here. You can write a few sentences about who you are, what you do, and your current interests.]
+[Master Student at ESPCI Paris-PSL. Welcome to my portfolio, where I share my recent academic projects and research work !]
+
