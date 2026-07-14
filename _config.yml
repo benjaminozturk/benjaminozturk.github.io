@@ -340,8 +340,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Öztürk]
+  first_name: [Benjamin]
 
   style: apa
   locale: en
@@ -699,3 +699,13 @@ jsonresume:
   - languages
   - interests
   - references
+# -----------------------------------------------------------------------------
+# Contact / Social
+# -----------------------------------------------------------------------------
+email: benjamin.ozturk@espci.fr
+linkedin_username:  benjamin-ozturk
+cv_pdf: cv.pdf # Assure-toi de glisser ton CV au format PDF dans le dossier assets/pdf/
+
+# On désactive le flux RSS (la 4ème icône avec les ondes) et Google Scholar
+rss_icon: false
+scholar_userid: false 
