@@ -19,5 +19,5 @@ selected_papers: false
 social: true 
 ---
 
-[Master Student at ESPCI Paris-PSL. Welcome to my portfolio, where I share my recent academic projects and research work !]
+Master Student at ESPCI Paris-PSL. Welcome to my portfolio, where I share my recent academic projects and research work ! 
 
