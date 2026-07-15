@@ -5,7 +5,7 @@ permalink: /projects/
 description: You will find here various academic projects and works.
 nav: true
 nav_order: 3
-display_categories: [Quantum Physics, Fluid Mechanics, Crystalline Materials, work]
+display_categories: [Quantum Physics, Fluid Mechanics, Crystalline Materials, Machine Learning]
 horizontal: false
 ---
 
@@ -29,7 +29,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -55,7 +55,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}

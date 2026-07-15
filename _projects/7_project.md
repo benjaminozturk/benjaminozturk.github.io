@@ -4,7 +4,7 @@ title: "Empirical Analysis of Logistic Regression: Optimization, Convergence, an
 description: "Implementation of binary and multiclass logistic regression, gradient descent optimization, and analysis of linear separability limits."
 img: assets/img/descente de gradient.png
 importance: 5
-category: work
+category: Machine Learning
 redirect: /assets/pdf/tp_regression_logistique.pdf
 ---
 
