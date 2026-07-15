@@ -4,7 +4,7 @@ title: "Interferometric Study of the Normal and Anomalous Zeeman Effects in Cadm
 description: "Measurement of the Bohr magneton and spectral shift analysis using a Fabry-Pérot interferometer."
 img: assets/img/montage Zeeman.JPG
 importance: 2
-category: work
+category: Quantum Physics
 giscus_comments: false
 redirect: /assets/pdf/tp_pq_zeeman_anglais.pdf
 ---
