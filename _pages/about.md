@@ -8,8 +8,8 @@ profile:
   align: right
   image: pfp.jpg
   image_circular: true # Set to false if you want a square profile picture
-  more_info: >
-    <p>benjamin.ozturk@espci.fr</p>
+  #more_info: >
+    
 ---
 
 I am currently a Master's student at **ESPCI Paris-PSL**, welcome to my portflolio where you can find some of my academic work and projects !
@@ -24,5 +24,4 @@ I am currently a Master's student at **ESPCI Paris-PSL**, welcome to my portflol
 
 ---
 
-### some pictures
 
