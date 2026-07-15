@@ -2,7 +2,7 @@
 layout: page
 title: "Interferometric Study of the Normal and Anomalous Zeeman Effects in Cadmium"
 description: "Measurement of the Bohr magneton and spectral shift analysis using a Fabry-Pérot interferometer."
-img: assets/img/montage Zeeman.JPG
+img: assets/img/2) mesure Bohr rouge 9,57A.JPG
 importance: 2
 category: Quantum Physics
 giscus_comments: false
