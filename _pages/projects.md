@@ -63,3 +63,14 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+<style>
+  .projects .category {
+    color: #555555 !important; /* Dark grey */
+    font-weight: 600; /* Makes it slightly bolder */
+  }
+  /* This ensures it turns white if someone uses Dark Mode */
+  html[data-theme='dark'] .projects .category {
+    color: #cccccc !important; 
+  }
+</style>
