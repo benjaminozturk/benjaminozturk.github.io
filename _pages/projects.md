@@ -5,7 +5,7 @@ permalink: /projects/
 description: You will find here various academic projects and works.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Quantum Physics, Fluid Mechanics. Crystalline Materials, work]
 horizontal: false
 ---
 
