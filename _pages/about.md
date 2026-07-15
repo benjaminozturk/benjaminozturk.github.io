@@ -2,22 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Master Student at ESPCI Paris-PSL. Welcome to my portfolio!
 
-# The profile section controls the picture and address box. 
-# We have disabled it by commenting it out (using the # symbol).
-# If you want a picture later, remove the # symbols and add your image name.
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false
-#   more_info: >
-#     <p>Your address or extra info</p>
-
-news: false
-selected_papers: false 
-social: true 
+profile:
+  align: right
+  image: pfp.jpg
+  image_circular: true # Set to false if you want a square profile picture
+  more_info: >
+    <p>benjamin.ozturk@espci.fr</p>
 ---
 
-Master Student at ESPCI Paris-PSL. Welcome to my portfolio, where I share my recent academic projects and research work ! 
+I am currently a Master's student at **ESPCI Paris-PSL**, welcome to my portflolio where you can find some of my academic work and projects !
+
+
+
+
+<div class="mt-3 mb-4">
+    <a href="/cv/" class="btn btn-primary btn-sm" role="button">View my CV</a>
+    <a href="mailto:benjamin.ozturk@espci.fr" class="btn btn-outline-primary btn-sm" role="button">Contact Me</a>
+</div>
+
+---
+
+### some pictures
 
