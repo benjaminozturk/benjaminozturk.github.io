@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Bénard-von Kármán Instability, Determination of the Critical Reynolds Number using the Finite Element Method"
+title: "Bénard-von Kármán Instability"
 description: "Numerical simulation of the Bénard-von Kármán vortex street and critical Reynolds number estimation using FEM."
 img: assets/img/vit_re60.jpg
 importance: 1
-category: fun
+category: Fluid Mechanics 
 redirect: /assets/pdf/tp_mf_sillage_anglais (1).pdf
 ---
 
