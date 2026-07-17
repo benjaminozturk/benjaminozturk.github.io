@@ -5,7 +5,7 @@ permalink: /projects/
 description: You will find here various academic projects and works.
 nav: true
 nav_order: 3
-display_categories: [Quantum Physics, Crystalline Materials, Fluid Mechanics, Machine Learning]
+display_categories: [Quantum Physics, Crystalline Materials, Fluid Mechanics, Machine Learning, Tournaments and Contests]
 horizontal: false
 ---
 
