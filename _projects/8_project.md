@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "2026 French Chemistry Tournament (TFC)"
-description: "Implementation of binary and multiclass logistic regression, gradient descent optimization, and analysis of linear separability limits."
+description: "How to Mask the Soapy Taste of Cilantro: A Supramolecular and Biocatalytic Study"
 img: assets/img/schema cyclodextrines.png
 importance: 5
 category: Tournaments and Contests
